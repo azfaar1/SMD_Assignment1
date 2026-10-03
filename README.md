@@ -83,4 +83,4 @@ npx expo start
 - All data is **sample data**; no real student records are used.
 - Data is held in memory, so it resets when the app reloads.
 - The screenshots were captured from the web build at a 390x844 viewport. On web, `react-native-chart-kit` logs harmless console warnings about SVG props; they do not occur on devices.
-- AI usage is documented in [AI_USAGE_REPORT.md](AI_USAGE_REPORT.md).
+- AI usage is documented in [AI Usage Report.docx](AI%20Usage%20Report.docx).
